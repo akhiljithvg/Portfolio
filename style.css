@@ -217,7 +217,7 @@ a {
 
 .project-img {
   width: 40%;
-  object-fit: cover;
+  object-fit: contain;
   max-height: 480px;
 }
 
