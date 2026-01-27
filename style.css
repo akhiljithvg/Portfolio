@@ -300,8 +300,8 @@ a {
 }
 
 .experience-card h4 {
-  font-size: 1rem;
-  color: #9fb4d8;
+  font-size: 1.2rem;
+  color: #459be6;
   margin-bottom: 12px;
   font-weight: 500;
 }
@@ -351,7 +351,7 @@ a {
 
 .section-card h4 {
   font-size: 1rem;
-  color: #9fb4d8;
+  color: #618bd5;
   margin-bottom: 8px;
 }
 
@@ -423,7 +423,7 @@ a {
   background: var(--accent-color);
   color: #000;
   border-radius: 50%;
-  padding: 12px 15px;
+  padding: 5px 15px;
   font-size: 1.3em;
   box-shadow: 0 4px 15px rgba(0,0,0,0.4);
   display: none;
