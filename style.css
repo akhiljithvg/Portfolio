@@ -438,12 +438,12 @@ a {
 .scroll-top.show { display: inline-block; }
 
 /* ===== Responsive ===== */
-@media (max-width: 992px) {
+@media (max-width: 500px) {
   .project-card { flex-direction: column; }
   .project-img, .project-details { width: 100%; }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 500px) {
   .hero-grid { flex-direction: column; text-align: center; }
   .hero-right { text-align: center; }
 }
