@@ -135,8 +135,8 @@ a {
   display: flex;
   gap: 30px; /* Adjusted gap */
   margin-top: 20px;
-  margin-left: 0; /* Reset negative margin */
-  justify-content: flex-start;
+  margin-left: 10px; /* Reset negative margin */
+  justify-content: "justify-content-center";
   flex-wrap: wrap;
 }
 
