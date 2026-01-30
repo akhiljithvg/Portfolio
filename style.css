@@ -237,7 +237,7 @@ a {
 .project-img {
   width: 40%;
   object-fit: cover; /* Changed to cover for better fit */
-  min-height: 300px; /* Ensure height on desktop */
+  min-height: 350px; /* Ensure height on desktop */
 }
 
 .project-details {
